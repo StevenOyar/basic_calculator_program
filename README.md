@@ -16,3 +16,10 @@ A basic Python calculator that performs four fundamental arithmetic operations.
 3. View the results of all four operations
 
 ## Example
+Enter first number: 10
+Enter second number: 5
+
+Addition: 15
+Multiplication: 50
+Subtraction: 5
+Division: 2.0
