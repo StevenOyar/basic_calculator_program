@@ -1,4 +1,18 @@
 # basic_calculator_program
-this is a basic simple calculator 
-the user will be prompted to enter 2 numbers
-the calculator will add, subtract, multiply and divide two numbers
+
+A basic Python calculator that performs four fundamental arithmetic operations.
+
+## Features
+
+- **Addition**: Adds two numbers
+- **Subtraction**: Subtracts second number from first  
+- **Multiplication**: Multiplies two numbers
+- **Division**: Divides first number by second
+
+## Usage
+
+1. Run the script
+2. Enter two numbers when prompted
+3. View the results of all four operations
+
+## Example
